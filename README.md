@@ -1,8 +1,12 @@
 # OVERVIEW
 
-qMIDASAPI is a cross-platform Qt-based library allowing to easily query a Midas server.
+qMIDASAPI is a cross-platform Qt-based library allowing to easily query a [Midas](https://github.com/midasplatform/midas) server.
 
-Update: Girder https://github.com/girder/girder is a more modern, better supported application than Midas Server. Look at Girder before using Midas Server.
+---
+
+**Update**: Girder https://github.com/girder/girder is a more modern, better supported application than Midas Server. Look at Girder before using Midas Server.
+
+---
 
 ## Prerequisites
 
@@ -20,4 +24,3 @@ Update: Girder https://github.com/girder/girder is a more modern, better support
 
 ## Contribute
 Fork + pull.
-
