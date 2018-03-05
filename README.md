@@ -1,11 +1,13 @@
 # OVERVIEW
 
-qMIDASAPI is a cross-platform [Qt-based](http://doc.qt.nokia.com/4.7/qt4-7-intro.html) library allowing to easily query a [Midas](http://midas.kitware.com) server.
+qMIDASAPI is a cross-platform Qt-based library allowing to easily query a Midas server.
+
+Update: Girder https://github.com/girder/girder is a more modern, better supported application than Midas Server. Look at Girder before using Midas Server.
 
 ## Prerequisites
 
- * [Qt 4.6.2](http://qt.nokia.com/downloads)
- * [CMake 2.8.2](http://www.cmake.org)
+ * Qt 4
+ * CMake
 
 ## How to build
 
